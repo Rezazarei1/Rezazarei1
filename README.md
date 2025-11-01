@@ -18,9 +18,9 @@
 
 **HTML:** ██████  
 **CSS:**  ██████  
-**C:**    ███ (Learning)  
-**C++:**  ██ (Learning)  
-**Java:** █ (Learning)
+**C:**        ███ (Learning)  
+**C++:**     ██ (Learning)  
+**Java:**  █ (Learning)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezazarei1&show_icons=true&locale=en&layout=compact" alt="rezazarei1" /></p>
 
