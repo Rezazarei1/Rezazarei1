@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-
+<img align="right" alt="Error" width="300px" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezazarei1&label=Profile%20views&color=0e75b6&style=flat" alt="rezazarei1" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rezazarei1](https://github.com/Rezazarei1)
